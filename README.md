@@ -1,4 +1,8 @@
-# hello-world
-My first repository
-Hello there this is my first project to start with this platform......
-Let's see what happens in near future 
+//This the first basic program that I am creating..
+#include<bits/stdc++.h>
+using namespace std; 
+
+int main()
+{
+cout << " Hello beautiful World " ; 
+}
